@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test
   annotations:
-    backstage.io/techdocs-ref: dir:/docs
+    backstage.io/techdocs-ref: dir:./docs
   links:
     - url: https://github.com/michael-horgan_iman/test/blob/main/README.md
       type: Readme
