@@ -3,5 +3,5 @@ site_name: 'Test Project Docs'
 nav:
   - Home: index.md
 
-plugins:
-  - techdocs-core
+#plugins:
+#  - techdocs-core
