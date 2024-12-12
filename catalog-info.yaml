@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: kahuna
-  system: some-project
+#  owner: kahuna
+#  system: some-project
