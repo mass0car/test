@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Test Repository This is some technical documentation for the test project.","title":"Home"},{"location":"#test-repository","text":"This is some technical documentation for the test project.","title":"Test Repository"}]}
